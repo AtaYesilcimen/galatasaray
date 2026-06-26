@@ -1,2 +1,4 @@
 # Galatasaray information website
-Made by Highschool student for a CS10 project.
+Made for a CS10 project
+
+Not updated to current events.
